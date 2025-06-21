@@ -1,5 +1,5 @@
 {
-    "name": "Shruti Music",
+    "name": "Sirion Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://files.catbox.moe/2oj1vp.webp",
     "keywords": [
@@ -69,12 +69,12 @@
         },
         "SUPPORT_GROUP": {
             "description": "Your support group username (without @)",
-            "value": "https://t.me/ShrutiBotsupport",
+            "value": "https://t.me/botsyard",
             "required": false
         },
         "SUPPORT_CHANNEL": {
             "description": "Your support channel username (without @)",
-            "value": "https://t.me/ShrutiBots",
+            "value": "https://t.me/Botsyard",
             "required": false
         },
         "COOKIE_URL": {
