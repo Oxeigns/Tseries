@@ -17,7 +17,7 @@ API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID", None))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "WTF_WhyMeeh")
+OWNER_USERNAME = os.getenv("OWNER_USERNAME", "majorgameapp")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
@@ -32,7 +32,7 @@ HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
 # 🔄 Git & Update Settings
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/NoxxOP/ShrutiMusic")
+UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/oxeigns/sirion")
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
@@ -40,8 +40,8 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/Botsyard")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+ZVt4d6AnWpsyYjBl")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
