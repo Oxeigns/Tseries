@@ -2,7 +2,7 @@
 <img src="https://files.catbox.moe/eehxb4.jpg" alt="˹ᴛʜᴇ sɪʀɪᴏɴ ʙᴏᴛ˼ Logo" width="500px">
 </p>
 
-<h1 align="center">🎵 Shruti Music Bot 🎵</h1>
+<h1 align="center">🎵  ˹ᴛʜᴇ sɪʀɪᴏɴ ʙᴏᴛ˼  🎵</h1>
 
 <p align="center">
   <b>A Powerful Telegram Music Bot to Play Songs in Voice Chats</b>
