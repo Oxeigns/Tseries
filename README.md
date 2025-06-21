@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://files.catbox.moe/eehxb4.jpg" alt="ShrutiMusicBot Logo" width="500px">
+<img src="https://files.catbox.moe/eehxb4.jpg" alt="˹ᴛʜᴇ sɪʀɪᴏɴ ʙᴏᴛ˼ Logo" width="500px">
 </p>
 
 <h1 align="center">🎵 Shruti Music Bot 🎵</h1>
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ShrutiBots"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShrutiBots" alt="Support Channel"></a>
-  <a href="https://t.me/ShrutiBotSupport"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
+  <a href="https://t.me/TheSirionBot"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShrutiBots" alt="Support Channel"></a>
+  <a href="https://t.me/Botsyard"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
   <a href="https://t.me/WTF_WhyMeeh"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
 </p>
 
@@ -165,7 +165,7 @@ screen -r shrutibot
 
 ## 🔄 How to Generate Session String
 
-Use our Session Generator Bot: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot)
+Use our Session Generator Bot: [@tseries_musicbot](https://t.me/eluzoBot)
 
 1. Start the bot
 2. Send phone number with country code
@@ -181,7 +181,7 @@ Use our Session Generator Bot: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot
 
 ## 🌟 Credits and Acknowledgements
 
-- [NoxxOP](https://github.com/NoxxOP): Main Developer
+- [swagger](https://github.com/majorgameapp): Main Developer
 - All contributors who helped make this project better
 
 ## 📝 License
@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For any questions or help, join our [Support Group](https://t.me/ShrutiBotSupport)
+For any questions or help, join our [Support Group](https://t.me/Botsyard)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-NoxxOP-red?style=for-the-badge" alt="Made with love">
