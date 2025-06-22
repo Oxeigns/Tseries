@@ -179,6 +179,16 @@ Use our Session Generator Bot: [@tseries_musicbot](https://t.me/eluzoBot)
 - **Can't join voice chat**: Make sure the bot is an admin with voice chat permissions
 - **API Issues**: Double check your API_ID and API_HASH
 
+## 🧪 Running Tests
+
+To run the test suite locally, install the project dependencies and `pytest`:
+
+```bash
+pip install -r requirements.txt
+pip install pytest
+pytest
+```
+
 ## 🌟 Credits and Acknowledgements
 
 - [swagger](https://github.com/majorgameapp): Main Developer
