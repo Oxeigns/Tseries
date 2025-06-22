@@ -13,10 +13,10 @@ load_dotenv()
 # 📲 Telegram & API Credentials
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-API_ID = int(os.getenv("API_ID"))
+API_ID = os.getenv("API_ID")
 API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-OWNER_ID = int(os.getenv("OWNER_ID", None))
+OWNER_ID = os.getenv("OWNER_ID")
 OWNER_USERNAME = os.getenv("OWNER_USERNAME", "majorgameapp")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -24,9 +24,21 @@ OWNER_USERNAME = os.getenv("OWNER_USERNAME", "majorgameapp")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 MONGO_DB_URI = os.getenv("MONGO_DB_URI", None)
-LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", None))
+LOG_GROUP_ID = os.getenv("LOG_GROUP_ID")
 HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
+
+# Validate essential configuration values
+if not API_ID:
+    raise SystemExit("[ERROR] - API_ID environment variable is missing.")
+if not OWNER_ID:
+    raise SystemExit("[ERROR] - OWNER_ID environment variable is missing.")
+if not LOG_GROUP_ID:
+    raise SystemExit("[ERROR] - LOG_GROUP_ID environment variable is missing.")
+
+API_ID = int(API_ID)
+OWNER_ID = int(OWNER_ID)
+LOG_GROUP_ID = int(LOG_GROUP_ID)
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔄 Git & Update Settings
