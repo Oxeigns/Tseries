@@ -12,7 +12,10 @@ def start_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["E_X_1"], url="https://t.me/TeamSirion"),
-            InlineKeyboardButton(text="˹T Sᴇʀɪᴇs ᴍᴜsɪᴄʙᴏᴛ˼", url="https://t.me/tseries_musicbot")
+            InlineKeyboardButton(text="˹T Sᴇʀɪᴇs ᴍᴜsɪᴄʙᴏᴛ˼", url="https://t.me/tseries_musicbot"),
+        ],
+        [
+            InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")
         ],
     ]
     return buttons
