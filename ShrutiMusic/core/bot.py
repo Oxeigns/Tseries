@@ -1,12 +1,15 @@
-import uvloop
+from ..logging import LOGGER
 
-uvloop.install()
+try:  # noqa: WPS501 - optional dependency
+    import uvloop
+    uvloop.install()
+except ImportError:  # noqa: WPS440
+    LOGGER(__name__).info("uvloop not installed, using default event loop")
 
 from pyrogram import Client, errors
 from pyrogram.enums import ChatMemberStatus, ParseMode
 
 import config
-from ..logging import LOGGER
 
 
 class Aviax(Client):
