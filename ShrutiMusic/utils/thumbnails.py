@@ -9,6 +9,7 @@ import aiofiles
 import aiohttp
 from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont
 from youtubesearchpython.__future__ import VideosSearch
+import traceback
 
 logging.basicConfig(level=logging.INFO)
 
