@@ -11,7 +11,7 @@ def start_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_GROUP),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_7"], url="https://t.me/TeamSirion"),
+            InlineKeyboardButton(text=_["S_B_7"], url="https://t.me/botsyard"),
         ],
     ]
     return buttons
@@ -33,7 +33,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_7"], url="https://t.me/TeamSirion"),
+            InlineKeyboardButton(text=_["S_B_7"], url="https://t.me/botsyard"),
         ],
     ]
     return buttons
