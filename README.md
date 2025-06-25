@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://files.catbox.moe/eehxb4.jpg" alt="˹ᴛʜᴇ sɪʀɪᴏɴ ʙᴏᴛ˼ Logo" width="500px">
+<img src="https://files.catbox.moe/eehxb4.jpg" alt="˹𝐓 - 𝐒𝐄𝐑𝐈𝐄𝐒 𝐌𝐔𝐒𝐈𝐂 Logo" width="500px">
 </p>
 
 <h1 align="center">🎵  ˹ᴛʜᴇ sɪʀɪᴏɴ ʙᴏᴛ˼  🎵</h1>
@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/TheSirionBot"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShrutiBots" alt="Support Channel"></a>
+  <a href="https://t.me/Botsyard"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShrutiBots" alt="Support Channel"></a>
   <a href="https://t.me/Botsyard"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
   <a href="https://t.me/WTF_WhyMeeh"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NoxxOP/ShrutiMusic/fork"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social" alt="GitHub Forks"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/Oxeignz/Tseries/fork"><img src="https://img.shields.io/github/forks/Oxeigns/Tseries?style=social" alt="GitHub Forks"></a>
+  <a href="https://github.com/Oxeigns/Tseries/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/NoxxOP/ShrutiMusic/graphs/contributors"><img src="https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?style=social" alt="GitHub Contributors"></a>
 </p>
 
