@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/eehxb4.jpg" alt="𝐓 - 𝐒𝐄𝐑𝐈𝐄𝐒 𝐌𝐔𝐒𝐈𝐂 Logo" width="300px">
+  <img src="https://files.catbox.moe/w4dvu4.jpeg" alt="𝐓 - 𝐒𝐄𝐑𝐈𝐄𝐒 𝐌𝐔𝐒𝐈𝐂 Logo" width="300px">
 </p>
 
 <h1 align="center">˹𝐓 - 𝐒𝐄𝐑𝐈𝐄𝐒 𝐌𝐔𝐒𝐈𝐂˼</h1>
