@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/Botsyard">Support Channel</a> •
   <a href="https://t.me/Botsyard">Support Group</a> •
-  <a href="https://t.me/WTF_WhyMeeh">Owner</a>
+  <a href="https://t.me/Majorgameapp">Owner</a>
 </p>
 
 ---
