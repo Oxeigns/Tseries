@@ -1,12 +1,12 @@
 {
-    "name": "Sirion Music",
+    "name": "𝐓 - 𝐒𝐄𝐑𝐈𝐄𝐒 𝐌𝐔𝐒𝐈𝐂",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://files.catbox.moe/2oj1vp.webp",
     "keywords": [
         "python3",
         "telegram",
         "bot",
-        "ShrutiBots",
+        "ShrutiBots", 
         "MusicBot",
         "telegram-bot",
         "pyrogram"
