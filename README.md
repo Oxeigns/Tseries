@@ -54,4 +54,5 @@ pip install -r requirements.txt
 cp sample.env .env
 nano .env  # Add your API_ID, API_HASH, BOT_TOKEN, etc.
 
-python3 -m Tseries
+python3 -m ShrutiMusic
+```
