@@ -1,3 +1,4 @@
+from ShrutiMusic import app
 from ShrutiMusic.misc import SUDOERS
 from ShrutiMusic.utils.database import get_lang, is_maintenance
 from config import SUPPORT_GROUP
